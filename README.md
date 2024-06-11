@@ -60,3 +60,5 @@ React.js, CSS ,JavaScript.
 Install the necessary dependencies.
 Run the Flask backend.
 Run the React frontend.
+![image](https://github.com/dhakad7/Minor/assets/127540463/1c914941-385a-489f-90bd-8f1d04982c43)
+
